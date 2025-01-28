@@ -1,5 +1,5 @@
 ## Hi there 👋
-Myself (Afzaal Ch)[https://linkedin.com/in/afzaalch]
+Myself [Afzaal Ch](https://linkedin.com/in/afzaalch)
 
 
 🔭 I’m currently working on small coding projects to improve my programming skills and build a strong portfolio.
