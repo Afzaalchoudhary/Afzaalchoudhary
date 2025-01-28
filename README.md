@@ -12,6 +12,6 @@
 
 💬 Ask me about coding, debugging, or tips for learning to program effectively.
 
-📫 How to reach me: [afzaalch262@gmail.com] or via GitHub.
+📫 How to reach me: [afzaalch262@gmail.com] or via GitHub [https://github.com/Afzaalchoudhary/Afzaalchoudhary]
 
 ⚡ Fun fact: I love solving logic puzzles and can spend hours perfecting a single line of code!
